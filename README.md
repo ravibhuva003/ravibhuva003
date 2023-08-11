@@ -1,3 +1,4 @@
+![logo](https://github.com/ravibhuva003/ravibhuva003/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ravi Bhuva</h1>
 <h3 align="center">A passionate Software developer from India.</h3>
 
