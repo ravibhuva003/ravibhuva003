@@ -20,7 +20,7 @@ I am <b>Ravi Bhuva</b>, currently pursuing my <b>B.Tech</b> degree in <b>Informa
 
 - 📫 How to reach me **ravibhuva577@gmail.com , 9773063667**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aRxIlg4a55RuGL9YL0ZPeuPBTzStjLyz/view?usp=sharing](https://drive.google.com/file/d/1aRxIlg4a55RuGL9YL0ZPeuPBTzStjLyz/view?usp=sharing)
+- 📄 Know about my experiences [<b>Ravi's Resume</b>](https://drive.google.com/file/d/1aRxIlg4a55RuGL9YL0ZPeuPBTzStjLyz/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny guy 😄**
 
