@@ -10,11 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/ravibhuva003" target="blank"><img src="https://img.shields.io/twitter/follow/ravibhuva003?logo=twitter&style=for-the-badge" alt="ravibhuva003" /></a> </p>
 
-- 🔭 I’m currently working on **Gokul Wears**
+- 🔭 I’m currently working on **FULL Stack Development**
 
-- 🌱 I’m currently learning **FULL Stack Development**
-
-- 👯 I’m looking to collaborate on **CDAS**
+- 🌱 I’m currently learning **Software Development**
 
 - 💬 Ask me about **Latest Technologies**
 
@@ -22,7 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1aRxIlg4a55RuGL9YL0ZPeuPBTzStjLyz/view?usp=sharing](https://drive.google.com/file/d/1aRxIlg4a55RuGL9YL0ZPeuPBTzStjLyz/view?usp=sharing)
 
-- ⚡ Fun fact **I think i am funny guy**
+- ⚡ Fun fact **I think I am funny guy 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
