@@ -74,7 +74,6 @@ I am <b>Ravi Bhuva</b>, currently pursuing my <b>B.Tech</b> degree in <b>Informa
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravibhuva003&theme=tokyonight" />
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=ravibhuva003&style=flat-square&color=blue)
